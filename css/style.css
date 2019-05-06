@@ -20,7 +20,7 @@ a {
 
 #navbar li a{
     font-size: 20px;
-    color: #5FB404;
+    color: #000;
 }
 
 #navbar ul {
@@ -65,3 +65,8 @@ a {
     font-size: 1.2em;
 }
 
+.footer {
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+}
