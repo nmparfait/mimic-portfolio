@@ -9,6 +9,7 @@
 
 body {
     position: relative;
+    text-align: center;
 }
 
 li,
@@ -29,6 +30,14 @@ a {
     height: 50px;
     right: 0;
    
+}
+
+#navbar ul li a:hover {
+  color: green;
+}
+
+#project {
+    color: #5FB404;
 }
 
 

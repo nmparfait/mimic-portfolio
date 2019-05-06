@@ -1,0 +1,36 @@
+#projects {
+    padding-top: 40px;
+    width: 100%;
+    height: 1600px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+#projects h2 {
+    font-size: 2em;
+    color: #5FB404;
+}
+
+#projects #project-tile img{
+    width: 300px;
+    height: 200px;
+}
+
+#projects #project-tile {
+    border: 2px solid black;
+    margin: 10px;
+    margin-left: 25%;
+    margin-right: 25%;
+    flex-wrap: wrap;
+}
+
+#button {
+    padding: 10px;
+    font-size: 1em;
+    color: #000;
+    width: 150px;
+    height: 40px;
+}
+
