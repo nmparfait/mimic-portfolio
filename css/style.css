@@ -11,9 +11,15 @@ body {
     position: relative;
 }
 
-#navbar li {
-    list-style-type: none;
-    color: blue;
+li,
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
+#navbar li a{
+    font-size: 20px;
+    color: #5FB404;
 }
 
 #navbar ul {
@@ -22,7 +28,10 @@ body {
     width: 40%;
     height: 50px;
     right: 0;
+   
 }
+
+
 .container {
     padding-top: 20px;
     width: 100%;
@@ -44,5 +53,6 @@ body {
 
 #welcome-section p {
     color: #5FB404;
+    font-size: 1.2em;
 }
 
