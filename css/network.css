@@ -15,3 +15,30 @@
     font-size: 1.2em;
 }
 
+.social-network {
+    margin-top: 80px;
+    display: flex;
+    width: 75%;
+    text-align: center;
+    
+}
+
+#social-network-item {
+    color: #5FB404;
+    font-size: 1.3em;
+    width: 120px;
+    height: 120px;
+    border: 3px solid #D8F6CE;
+    padding: 10px;
+    margin: 30px;
+    border-radius: 50%;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #CED8F6;
+    line-height: 100px;
+}
+
+
+#social-network-item:hover {
+    color: #000;
+}
