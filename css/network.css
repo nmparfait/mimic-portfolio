@@ -21,7 +21,7 @@
 
 #social-network-item {
     display: inline-block;
-    color: #5FB404;
+    color: #000;
     background-color: #CED8F6;
     font-size: 1em;
     width: 140px;
@@ -38,34 +38,9 @@
     vertical-align: middle;
 }
 
-/*
-.social-network {
-    margin-top: 80px;
-    width: 75%;
-    text-align: center;
-     
-    
-}
-
-#social-network-item {
-    display: inline-block;
-    color: #5FB404;
-    font-size: 1.3em;
-    width: 120px;
-    height: 120px;
-    padding: 5px;
-    border: 3px solid #D8F6CE;
-    margin: 30px;
-    border-radius: 50%;
-    text-align: center;
-    vertical-align: middle;
-    background-color: #CED8F6;
-    line-height: 100px;
-}
-
 
 #social-network-item:hover {
-    color: #000;
+    color: #5FB404;
 }
 
 #project-tile figcaption {
