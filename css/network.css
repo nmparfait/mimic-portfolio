@@ -19,15 +19,36 @@
     font-size: 1.2em;
 }
 
+#social-network-item {
+    display: inline-block;
+    color: #5FB404;
+    background-color: #CED8F6;
+    font-size: 1em;
+    width: 140px;
+    height: 140px;
+    line-height: 120px;
+    border-radius: 50%;
+    border: 2px solid #D8F6CE;
+    margin: 65px 45px 25px;
+    padding: 5px;
+}
+
+#network-group {
+    height: 500px;
+    vertical-align: middle;
+}
+
+/*
 .social-network {
     margin-top: 80px;
-    display: flex;
     width: 75%;
     text-align: center;
+     
     
 }
 
 #social-network-item {
+    display: inline-block;
     color: #5FB404;
     font-size: 1.3em;
     width: 120px;
@@ -51,3 +72,5 @@
     border: 1px solid #000;
     padding: 5px;
 }
+
+*/
